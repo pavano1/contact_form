@@ -1,0 +1,14 @@
+contact form details of code logic
+
+created contact form page in index.php file
+
+1.Done php validation ;
+2.Dublicated are not allowed by checking email ;
+3.The htmlspecialchars() function  This prevents attackers from exploiting the code by injecting HTML or Javascript code (Cross-site Scripting attacks) in forms.
+4.used trim ,stripslashes,htmlspecialchars functions 
+5. used prepared statement to aviod sqi attack
+5.mail function is used send mail  as not library to be used
+6.sql file is shared for insert data to database
+7.Boostrap not used . 
+8. https://screenrec.com/share/Vnq0Dp2j7W   :video recorder screen
+
